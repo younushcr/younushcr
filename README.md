@@ -16,7 +16,7 @@ I'm Younus, your friendly neighborhood code voyager!
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=younushcr&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younushcr&layout=compact" />
-</div><br>
+</div><br><br>
 
 <img src="https://github.com/younushcr/younushcr/assets/140330639/e3750f9e-0f60-446d-800f-b746c76e9a4a" width="800">
 
