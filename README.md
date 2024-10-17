@@ -9,7 +9,7 @@ I'm Younus, your friendly neighborhood code voyager!
 - ⚡ Fun fact: I think I am the best coder.
 - 📫 You can reach me on : younusxhcr@gmail.com
 
-<img src="https://github-profile-trophy.vercel.app/?username=younushcr&theme=flat" width="800"><br>
+<img src="[https://github-profile-trophy.vercel.app/?username=younushcr&theme=flat](https://github-profile-trophy.vercel.app/?username=younushcr&theme=light)" width="800"><br>
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=younushcr&count_private=true&include_all_commits=true" />
