@@ -53,8 +53,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/younushcr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="younushcr" /></a><a href="https://ko-fi.com/younushcr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="younushcr" /></a></p><br><br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younushcr&show_icons=true&locale=en&layout=compact" alt="younushcr" style="flex: 1 1 45%; max-width: 45%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younushcr" alt="younushcr" style="flex: 1 1 45%; max-width: 45%; height: auto;" />
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younushcr&show_icons=true&locale=en&layout=compact" alt="younushcr" style="width: 300px; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younushcr" alt="younushcr" style="width: 300px; height: auto;" />
 </div>
+
 
