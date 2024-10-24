@@ -55,6 +55,6 @@
 
 <p style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younushcr&show_icons=true&locale=en&layout=compact" alt="younushcr" style="width: 40%; min-width: 300px; height: auto; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younushcr" alt="younushcr" style="width: 50%; min-width: 300px; height: auto; margin-bottom: 50px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younushcr" alt="younushcr" style="width: 50%; min-width: 300px; height: auto; margin-top: 50px" />
 </p>
 
