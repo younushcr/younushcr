@@ -49,14 +49,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/younushcr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="younushcr" /></a><a href="https://ko-fi.com/younushcr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="younushcr" /></a></p><br><br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex: 1; min-width: 300px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younushcr&show_icons=true&locale=en&layout=compact" alt="younushcr" />
-    </div>
-    <div style="flex: 1; min-width: 300px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=younushcr&show_icons=true&locale=en" alt="younushcr" />
-    </div>
-    <div style="flex: 1; min-width: 300px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=younushcr" alt="younushcr" />
-    </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younushcr&show_icons=true&locale=en&layout=compact" alt="younushcr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=younushcr&show_icons=true&locale=en" alt="younushcr" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younushcr" alt="younushcr" />
+</p>
