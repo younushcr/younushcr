@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **younusxhcr@gmail.com**
 
-- - 😄 Pronouns: [He/Him]
+- 😄 Pronouns: [He/Him]
 
 - 📄 Know about my experiences: [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:3b0cb3f3-4059-4c84-9f1b-f00ba8171777)
 
@@ -53,7 +53,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/younushcr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="younushcr" /></a><a href="https://ko-fi.com/younushcr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="younushcr" /></a></p><br><br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younushcr&show_icons=true&locale=en&layout=compact" alt="younushcr" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younushcr" alt="younushcr" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younushcr&show_icons=true&locale=en&layout=compact" alt="younushcr" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younushcr" alt="younushcr" style="max-width: 100%; height: auto;" />
 </div>
