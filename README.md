@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences: [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:3b0cb3f3-4059-4c84-9f1b-f00ba8171777)
 
-- ⚡ Fun fact **You can spell "World Wide Web" faster than "WWW" 😂😜**
+- ⚡ Fun fact: You can spell "World Wide Web" faster than "WWW" 😂😜
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
