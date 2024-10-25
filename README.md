@@ -53,7 +53,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/younushcr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="younushcr" /></a><a href="https://ko-fi.com/younushcr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="younushcr" /></a></p><br><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=younushcr&show_icons=true&locale=en&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=younushcr)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=younushcr)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=younushcr&show_icons=true&locale=en&layout=compact)
 
 
