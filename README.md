@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/younushcr" target="blank"><img src="https://img.shields.io/twitter/follow/younushcr?logo=twitter&style=for-the-badge" alt="younushcr" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce project]
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -18,15 +18,13 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://younushcr.com/)
 
-- 📝 I regularly write articles on [https://younushcr.com/blog/](https://younushcr.com/blog/)
-
 - 📫 How to reach me **younusxhcr@gmail.com**
 
 - 😄 Pronouns: [He/Him]
 
 - 📄 Know about my experiences: [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:3b0cb3f3-4059-4c84-9f1b-f00ba8171777)
 
-- ⚡ Fun fact **I think I am the best coder.**
+- ⚡ Fun fact **You can spell "World Wide Web" faster than "WWW" 😂😜**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
