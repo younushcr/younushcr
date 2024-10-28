@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning DevOps<br>👯 I’m looking to collaborate on [Web & App Projects]<br>🤝 I’m looking for help with [IPTV Middleware]<br>👨‍💻 All of my projects are available at My Website<br>📫 How to reach me younusxhcr@gmail.com<br>😄 Pronouns: [He/Him]<br>📄 Know about my experiences: Resume(https://acrobat.adobe.com/id/urn:aaid:sc:AP:3b0cb3f3-4059-4c84-9f1b-f00ba8171777)
+🔭 I’m currently working on Flutter<br>🌱 I’m currently learning DevOps<br>👯 I’m looking to collaborate on [Web & App Projects]<br>🤝 I’m looking for help with [IPTV Middleware]<br>👨‍💻 All of my projects are available at My Website<br>📫 How to reach me younusxhcr@gmail.com<br>😄 Pronouns: [He/Him]<br>📄 Know about my experiences: [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:3b0cb3f3-4059-4c84-9f1b-f00ba8171777)
 <br>⚡ Fun fact: You can spell "World Wide Web" faster than "WWW" 😂😜
 
 
