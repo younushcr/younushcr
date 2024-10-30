@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Younus Sajeed</h1>
 <h3 align="center">A passionate Frontend Developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=younushcr&label=Profile%20views&color=0e75b6&style=flat" alt="younushcr" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=younushcr&icon=0&color=0" alt="younushcr" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=younushcr&theme=dark&no-frame=false&no-bg=false&margin-w=4)
