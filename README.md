@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=younushcr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![](https://raw.githubusercontent.com/younushcr/younushcr/17cdb4d06d5f549bc62b4ae036fe6a546e577053/output/github-contribution-grid-snake-dark.svg)<br>
 
